@@ -1,7 +1,7 @@
 
 function mostarEdad() {
 
-    var edadUsuario = 35 //prompt('¿Cuál es tu edad?');
+    var edadUsuario = prompt('¿Cuál es tu edad?');
     
     var edadMaxima = edadUsuario * 365
     
